@@ -9,7 +9,7 @@ Ele é apenas uma Imitação da página principal do Spotify, utilizando basicam
 
 </details>
 <details>
-<summary>**Foto da page pronta** 🎥 (Clique para expandir)</summary>
+<summary>**Certificado** 🎥 (Clique para expandir)</summary>
 
   ![Certificado](https://github.com/WillianNog/Projeto-Spotify-Alura/blob/main/Certificado.png)
 
